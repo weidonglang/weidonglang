@@ -399,7 +399,7 @@ F(x) = { f₁(x), f₂(x), ..., fₖ(x) }
 
 <h3>Computation</h3>
 
-将模型转化为可计算、可验证、可复现实验流程。
+将模型转化为可计算、可验证、可复现的实验流程。
 
 <code>Model → Algorithm</code>
 
