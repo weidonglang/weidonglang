@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2f4f,50:1d4ed8,100:14b8a6&height=180&section=header&text=Weidong%20Lang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
-<img src="https://github.com/weidonglang.png" width="118" height="118" style="border-radius:50%;" alt="Avatar" />
+<br/>
+
+<img src="https://github.com/weidonglang.png" width="118" height="118" alt="Avatar" />
 
 <h1>Hi, I'm Weidong Lang / 魏语石</h1>
 
@@ -186,7 +188,12 @@ It combines exact matching, BM25 retrieval, dense vector retrieval, reranking, e
 
 <div align="center">
 
-<img width="720" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&custom_title=Primary%20Languages%20Across%20Projects&cache_seconds=21600&v=20260614-6" alt="Primary Languages Across Projects" />
+<img src="https://img.shields.io/badge/Java-Spring%20Boot%20%7C%20Spring%20Cloud%20%7C%20Backend-0f2f4f?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FastAPI%20%7C%20Modeling%20%7C%20Simulation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Vue%203%20%7C%20Dashboards-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-155e75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MATLAB-Mathematical%20Modeling-4f46e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rust-Evaluation%20CLI%20%7C%20Reports-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
 </div>
 
@@ -194,131 +201,60 @@ It combines exact matching, BM25 retrieval, dense vector retrieval, reranking, e
 
 <table>
 <tr>
-<th align="left">Language / Tool</th>
-<th align="left">Where I Use It</th>
-<th align="left">Representative Projects</th>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Java-0f2f4f?style=flat-square&logo=openjdk&logoColor=white" />
-</td>
-<td>Spring Boot / Spring Cloud backend, microservices, permission systems, resource scheduling platforms</td>
-<td>SkyGrid, ReadSeek, Academic Nexus</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</td>
-<td>FastAPI algorithm service, route-planning simulation, mathematical modeling, data analysis</td>
-<td>LowAlt RouteLab, Mathematical Modeling Project</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" />
-</td>
-<td>Vue 3 dashboards, low-altitude cockpit, visual interaction, frontend engineering</td>
-<td>SkyGrid Web, LowAlt RouteLab Web, Academic Nexus Frontend</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/SQL-155e75?style=flat-square" />
-</td>
-<td>MySQL / PostgreSQL schema design, resource modeling, query design, business data persistence</td>
-<td>SkyGrid, ReadSeek, Academic Nexus</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/MATLAB-4f46e5?style=flat-square" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-</td>
-<td>mathematical modeling, parameter calculation, sensitivity analysis, statistical decision-making</td>
-<td>CUMCM Modeling Project, Modeling Experiments</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</td>
-<td>evaluation CLI, benchmark tooling, reproducible report generation</td>
-<td>ReadSeek Evaluation Suite</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Shell%20%2F%20PowerShell-111827?style=flat-square&logo=gnubash&logoColor=white" />
-</td>
-<td>environment scripts, startup scripts, project automation, deployment assistance</td>
-<td>Spring Boot / Docker Compose Projects</td>
-</tr>
-</table>
-
----
-
-## Project-Oriented Tech Map
-
-<table>
-<tr>
-<th align="left">Project Area</th>
-<th align="left">Main Languages</th>
+<th align="left">Area</th>
+<th align="left">Languages / Tools</th>
 <th align="left">Representative Usage</th>
 </tr>
 
 <tr>
 <td><b>Low-Altitude Intelligent Systems</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-0f2f4f?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</td>
-<td>UAV scheduling, route planning, risk evaluation, conflict detection, airspace visualization</td>
+<td>Java · Python · TypeScript · SQL</td>
+<td>UAV scheduling, route planning, risk evaluation, conflict detection, airspace resource modeling, and visualization.</td>
 </tr>
 
 <tr>
-<td><b>Backend Engineering Platforms</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-0f2f4f?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-155e75?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-111827?style=flat-square&logo=gnubash&logoColor=white" />
-</td>
-<td>Spring Boot, Spring Cloud, MySQL, Redis, RabbitMQ, service governance, API design</td>
+<td><b>Backend Engineering</b></td>
+<td>Java · SQL · Shell</td>
+<td>Spring Boot, Spring Cloud, RESTful APIs, permission systems, Redis caching, RabbitMQ messaging, and service governance.</td>
+</tr>
+
+<tr>
+<td><b>Algorithm & Simulation</b></td>
+<td>Python · C · MATLAB</td>
+<td>Dijkstra, A*, Theta*, probability modeling, hypothesis testing, sensitivity analysis, and decision optimization.</td>
 </tr>
 
 <tr>
 <td><b>AI Search & RAG Systems</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-0f2f4f?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
-</td>
-<td>Hybrid retrieval, BM25, vector search, reranking, RAG QA, offline evaluation reports</td>
-</tr>
-
-<tr>
-<td><b>Mathematical Modeling</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-4f46e5?style=flat-square" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-</td>
-<td>probability modeling, hypothesis testing, expected loss, optimization, sensitivity analysis</td>
+<td>Java · Rust · Vue</td>
+<td>Hybrid retrieval, BM25, vector search, reranking, RAG QA, evaluation CLI, and reproducible report generation.</td>
 </tr>
 
 <tr>
 <td><b>Frontend Visualization</b></td>
-<td>
-<img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/ECharts-155e75?style=flat-square" />
-</td>
-<td>low-altitude cockpit, route visualization, dashboard pages, data analysis panels</td>
+<td>Vue · TypeScript · JavaScript · ECharts</td>
+<td>Low-altitude cockpit, route visualization, approval dashboards, conflict records, and data analysis panels.</td>
+</tr>
+
+<tr>
+<td><b>Modeling & Research Support</b></td>
+<td>Python · MATLAB · R</td>
+<td>Mathematical modeling, parameter calculation, statistical decision-making, expected loss, and risk evaluation.</td>
 </tr>
 </table>
+
+<details>
+<summary>Raw GitHub Language Statistics</summary>
+
+<br/>
+
+<div align="center">
+
+<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&custom_title=Languages&cache_seconds=21600&v=20260614-8" alt="GitHub Language Statistics" />
+
+</div>
+
+</details>
 
 ---
 
@@ -416,9 +352,9 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=weidonglang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=21600&v=20260614-6" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=weidonglang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=21600&v=20260614-8" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=weidonglang&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&v=20260614-6" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=weidonglang&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&v=20260614-8" alt="GitHub Streak" />
 
 </div>
 
@@ -426,11 +362,11 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weidonglang&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&v=20260614-6" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weidonglang&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&v=20260614-8" alt="Contribution Activity Graph" />
 
 </div>
 
-> Tip: If the language statistics still show old data, change the `v=20260614-6` suffix in the image URLs, for example to `v=20260614-7`. This forces GitHub to treat the image as a new resource.
+> Tip: If the language statistics still show old data, change the `v=20260614-8` suffix in the image URLs, for example to `v=20260614-9`. This forces GitHub to treat the image as a new resource.
 
 ---
 
@@ -441,18 +377,13 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidonglang&theme=github_dark&v=20260614-6" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidonglang&theme=github_dark&v=20260614-8" alt="Profile Details" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weidonglang&theme=github_dark&v=20260614-6" alt="Repos per Language" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weidonglang&theme=github_dark&utcOffset=8&v=20260614-6" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weidonglang&theme=github_dark&v=20260614-6" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weidonglang&theme=github_dark&utcOffset=8&v=20260614-8" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weidonglang&theme=github_dark&v=20260614-8" alt="Stats" />
 
 </div>
 
