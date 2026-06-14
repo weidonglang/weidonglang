@@ -258,7 +258,6 @@ It combines exact matching, BM25 retrieval, dense vector retrieval, reranking, e
 </tr>
 </table>
 
-
 ---
 
 ## Project-Oriented Tech Map
@@ -417,9 +416,9 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=weidonglang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=21600&v=20260614-5" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=weidonglang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=21600&v=20260614-6" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=weidonglang&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&v=20260614-5" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=weidonglang&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&v=20260614-6" alt="GitHub Streak" />
 
 </div>
 
@@ -427,11 +426,11 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weidonglang&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&v=20260614-5" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weidonglang&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&v=20260614-6" alt="Contribution Activity Graph" />
 
 </div>
 
-> Tip: If the language statistics still show old data, change the `v=20260614-5` suffix in the image URLs, for example to `v=20260614-6`. This forces GitHub to treat the image as a new resource.
+> Tip: If the language statistics still show old data, change the `v=20260614-6` suffix in the image URLs, for example to `v=20260614-7`. This forces GitHub to treat the image as a new resource.
 
 ---
 
@@ -442,19 +441,18 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidonglang&theme=github_dark&v=20260614-5" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidonglang&theme=github_dark&v=20260614-6" alt="Profile Details" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weidonglang&theme=github_dark&v=20260614-5" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weidonglang&theme=github_dark&v=20260614-5" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weidonglang&theme=github_dark&v=20260614-6" alt="Repos per Language" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weidonglang&theme=github_dark&utcOffset=8&v=20260614-5" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weidonglang&theme=github_dark&v=20260614-5" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weidonglang&theme=github_dark&utcOffset=8&v=20260614-6" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weidonglang&theme=github_dark&v=20260614-6" alt="Stats" />
 
 </div>
 
