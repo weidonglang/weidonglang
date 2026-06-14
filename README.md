@@ -31,7 +31,7 @@
 
 I am a Computer Science undergraduate interested in **low-altitude intelligent systems, UAV scheduling, mathematical modeling, and reliable engineering platforms**.
 
-My current focus is to connect **scenario modeling, algorithmic decision-making, and software engineering**. I enjoy transforming real-world problems into computable models, building backend systems around them, and visualizing the decision process through full-stack platforms.
+My current focus is to connect **scenario modeling, algorithmic decision-making, and software engineering**. I enjoy transforming real-world problems into computable models, building backend systems around them, and visualizing decision processes through full-stack platforms.
 
 * Research interests: low-altitude swarm decision-making, UAV route planning, multi-agent coordination, conflict detection, and risk-aware scheduling.
 * Engineering interests: Java backend systems, Spring Boot / Spring Cloud, Redis, RabbitMQ, Elasticsearch, and Vue-based dashboards.
@@ -276,11 +276,23 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=weidonglang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=weidonglang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&cache_seconds=21600&v=20260614-3" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&custom_title=Primary%20Languages" alt="Primary Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&custom_title=Primary%20Languages&cache_seconds=21600&v=20260614-3" alt="Primary Languages" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weidonglang&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&v=20260614-3" alt="Contribution Activity Graph" />
+
+</div>
+
+> Tip: If the language statistics still show old data, change the `v=20260614-3` suffix in the image URLs, for example to `v=20260614-4`. This forces GitHub to treat the image as a new resource.
+
+---
 
 <details>
 <summary>More GitHub Summary</summary>
@@ -289,13 +301,19 @@ I enjoy turning models and algorithms into reliable backend services, APIs, dash
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidonglang&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidonglang&theme=github_dark&v=20260614-3" alt="Profile Details" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weidonglang&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weidonglang&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weidonglang&theme=github_dark&v=20260614-3" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weidonglang&theme=github_dark&v=20260614-3" alt="Most Commit Language" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weidonglang&theme=github_dark&utcOffset=8&v=20260614-3" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weidonglang&theme=github_dark&v=20260614-3" alt="Stats" />
 
 </div>
 
@@ -338,6 +356,21 @@ Build reliable backend services, dashboards, and engineering platforms around al
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## Keywords
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Low--Altitude_Intelligence-0f766e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UAV_Scheduling-1d4ed8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Route_Planning-4f46e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mathematical_Modeling-0f2f4f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Decision_Support-155e75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java_Backend-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div>
 
