@@ -186,9 +186,7 @@ It combines exact matching, BM25 retrieval, dense vector retrieval, reranking, e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=donut&theme=github_dark&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&custom_title=Language%20Landscape&cache_seconds=21600&v=20260614-5" alt="Language Landscape" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weidonglang&theme=github_dark&v=20260614-5" alt="Most Commit Language" />
+<img width="720" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&custom_title=Primary%20Languages%20Across%20Projects&cache_seconds=21600&v=20260614-6" alt="Primary Languages Across Projects" />
 
 </div>
 
@@ -196,56 +194,70 @@ It combines exact matching, BM25 retrieval, dense vector retrieval, reranking, e
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<th align="left">Language / Tool</th>
+<th align="left">Where I Use It</th>
+<th align="left">Representative Projects</th>
+</tr>
 
-<h3>Engineering Languages</h3>
-
-<table>
 <tr>
-<td><b>Java</b></td>
-<td>Spring Boot, Spring Cloud, backend services, microservice platforms, permission systems</td>
-</tr>
-<tr>
-<td><b>Python</b></td>
-<td>FastAPI services, route-planning simulation, mathematical modeling, data analysis</td>
-</tr>
-<tr>
-<td><b>TypeScript / JavaScript</b></td>
-<td>Vue 3 dashboards, visualization panels, full-stack interaction, frontend engineering</td>
-</tr>
-<tr>
-<td><b>SQL</b></td>
-<td>MySQL, PostgreSQL, schema design, resource modeling, query design</td>
-</tr>
-</table>
-
+<td>
+<img src="https://img.shields.io/badge/Java-0f2f4f?style=flat-square&logo=openjdk&logoColor=white" />
 </td>
-<td width="50%" valign="top">
-
-<h3>Research & Tooling Languages</h3>
-
-<table>
-<tr>
-<td><b>MATLAB</b></td>
-<td>mathematical modeling, parameter calculation, sensitivity analysis, visualization</td>
+<td>Spring Boot / Spring Cloud backend, microservices, permission systems, resource scheduling platforms</td>
+<td>SkyGrid, ReadSeek, Academic Nexus</td>
 </tr>
+
 <tr>
-<td><b>C</b></td>
-<td>data structures, algorithm practice, systems programming foundation</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</td>
+<td>FastAPI algorithm service, route-planning simulation, mathematical modeling, data analysis</td>
+<td>LowAlt RouteLab, Mathematical Modeling Project</td>
 </tr>
+
 <tr>
-<td><b>Rust</b></td>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" />
+</td>
+<td>Vue 3 dashboards, low-altitude cockpit, visual interaction, frontend engineering</td>
+<td>SkyGrid Web, LowAlt RouteLab Web, Academic Nexus Frontend</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/SQL-155e75?style=flat-square" />
+</td>
+<td>MySQL / PostgreSQL schema design, resource modeling, query design, business data persistence</td>
+<td>SkyGrid, ReadSeek, Academic Nexus</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/MATLAB-4f46e5?style=flat-square" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+</td>
+<td>mathematical modeling, parameter calculation, sensitivity analysis, statistical decision-making</td>
+<td>CUMCM Modeling Project, Modeling Experiments</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</td>
 <td>evaluation CLI, benchmark tooling, reproducible report generation</td>
+<td>ReadSeek Evaluation Suite</td>
 </tr>
+
 <tr>
-<td><b>Shell / PowerShell</b></td>
-<td>environment scripts, project startup, deployment assistance, automation</td>
+<td>
+<img src="https://img.shields.io/badge/Shell%20%2F%20PowerShell-111827?style=flat-square&logo=gnubash&logoColor=white" />
+</td>
+<td>environment scripts, startup scripts, project automation, deployment assistance</td>
+<td>Spring Boot / Docker Compose Projects</td>
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
 
 ---
 
