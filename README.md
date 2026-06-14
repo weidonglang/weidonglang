@@ -240,51 +240,26 @@ F(x) = { f₁(x), f₂(x), ..., fₖ(x) }
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-<h3>
-<a href="https://github.com/weidonglang/SkyGrid-Low-Altitude-Platform">
-🛩️ SkyGrid Low-Altitude Platform
-</a>
-</h3>
+<h3>🛩️ Low-Altitude Engineering Project Group</h3>
 
 <p>
-面向无人机巡检与低空航线预约场景的低空时空资源协同调度平台，支持空域网格建模、预约审批、冲突检测与审计留痕。
+A two-repository low-altitude engineering project group that connects UAV route planning with airspace resource scheduling.
 </p>
 
-<p>
-<b>Keywords:</b>
-<code>Low-Altitude Economy</code> · <code>UAV Scheduling</code> · <code>Spatiotemporal Modeling</code> · <code>Visualization</code>
-</p>
+<ul>
+<li><b><a href="https://github.com/weidonglang/SkyGrid-Low-Altitude-Platform">SkyGrid</a></b>: Low-altitude resource scheduling, reservation approval, conflict detection, Outbox/RabbitMQ consistency, audit logging, and cockpit dashboard.</li>
+<li><b><a href="https://github.com/weidonglang/LowAlt-RouteLab">LowAlt-RouteLab</a></b>: UAV route planning, Dijkstra/A*/Theta* comparison, risk evaluation, energy estimation, and TimeSlot occupancy conversion.</li>
+<li><b>Tech Stack</b>: Spring Boot, Spring Cloud, RabbitMQ, Redis, MySQL, Vue, Python, FastAPI, pytest.</li>
+<li><b>Releases</b>: SkyGrid v0.1.1, LowAlt-RouteLab v0.1.0.</li>
+</ul>
 
 <p>
-<img src="https://img.shields.io/badge/UAV_Scheduling-8957e5?style=flat-square" />
-<img src="https://img.shields.io/badge/Spatiotemporal_Modeling-d29922?style=flat-square" />
-<img src="https://img.shields.io/badge/Engineering_Practice-238636?style=flat-square" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>
-<a href="https://github.com/weidonglang/LowAlt-RouteLab">
-🧭 LowAlt RouteLab
-</a>
-</h3>
-
-<p>
-低空航路与调度实验项目，用于探索路线规划、场景建模、算法验证与调度策略分析。
-</p>
-
-<p>
-<b>Keywords:</b>
-<code>Python</code> · <code>Route Planning</code> · <code>Simulation</code> · <code>Algorithm Validation</code>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Route_Planning-1f6feb?style=flat-square" />
-<img src="https://img.shields.io/badge/Simulation-d29922?style=flat-square" />
+<img src="https://img.shields.io/badge/SkyGrid-v0.1.1-8957e5?style=flat-square" />
+<img src="https://img.shields.io/badge/LowAlt--RouteLab-v0.1.0-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/UAV_Route_Planning-d29922?style=flat-square" />
+<img src="https://img.shields.io/badge/Airspace_Scheduling-238636?style=flat-square" />
 </p>
 
 </td>
