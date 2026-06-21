@@ -250,7 +250,7 @@ It combines exact matching, BM25 retrieval, dense vector retrieval, reranking, e
 
 <div align="center">
 
-<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide= &size_weight=0.5&count_weight=0.5&custom_title=Languages&cache_seconds=21600&v=20260621-1" alt="GitHub Language Statistics" />
+<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidonglang&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css,vue&size_weight=0.5&count_weight=0.5&custom_title=Languages&cache_seconds=21600&v=20260621-1" alt="GitHub Language Statistics" />
 
 </div>
 
